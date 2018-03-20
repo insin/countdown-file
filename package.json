@@ -1,11 +1,27 @@
 {
-  "name": "countdown",
+  "name": "countdown-file",
   "version": "1.0.0",
-  "description": "Write a countdown to a text file",
+  "description": "Writes a countdown to a text file every second",
   "main": "index.js",
   "bin": {
     "countdown": "index.js"
   },
-  "author": "",
-  "license": "MIT"
+  "files": [
+    "index.js"
+  ],
+  "author": "Jonny Buchanan <jonathan.buchanan@gmail.com>",
+  "homepage": "https://github.com/insin/countdown",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/insin/countdown.git"
+  },
+  "keywords": [
+    "countdown",
+    "file",
+    "obs",
+    "streaming",
+    "timer",
+    "twitch"
+  ]
 }
