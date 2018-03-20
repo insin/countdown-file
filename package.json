@@ -1,0 +1,11 @@
+{
+  "name": "countdown",
+  "version": "1.0.0",
+  "description": "Write a countdown to a text file",
+  "main": "index.js",
+  "bin": {
+    "countdown": "index.js"
+  },
+  "author": "",
+  "license": "MIT"
+}
