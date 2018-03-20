@@ -1,6 +1,6 @@
 {
   "name": "countdown-file",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Writes a countdown to a text file every second",
   "main": "index.js",
   "bin": {
@@ -10,11 +10,11 @@
     "index.js"
   ],
   "author": "Jonny Buchanan <jonathan.buchanan@gmail.com>",
-  "homepage": "https://github.com/insin/countdown",
+  "homepage": "https://github.com/insin/countdown-file",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/insin/countdown.git"
+    "url": "https://github.com/insin/countdown-file.git"
   },
   "keywords": [
     "countdown",
